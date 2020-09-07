@@ -1,0 +1,19 @@
+.videoSidebar{
+    position: absolute;
+    top: 50%;
+    color: white;
+    width: 60%;
+    margin: 0 18%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.videoSidebar__button{
+    padding: 20px;
+    text-align: center;
+}
+
+.videoSidebar__button>svg{
+    cursor: pointer;
+}
