@@ -16,7 +16,7 @@ html{
   display: grid;
 }
 
-.app__videos:::-webkit-scrollbar{
+.app__videos::-webkit-scrollbar{
   display: none;
 }
 
